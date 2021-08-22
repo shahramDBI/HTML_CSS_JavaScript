@@ -1,0 +1,18 @@
+a{
+  text-decoration: none;
+  padding: 20px;
+  margin: 20px;
+}
+
+a:visited{
+  background-color: pink;
+}
+a:active{
+  background-color: darkgreen;
+}
+a:link{
+  background-color: #ff2839;
+}
+a:hover{
+  background-color: darkorange;
+}

@@ -1,0 +1,8 @@
+.littleBox{
+  height: 100px;
+  width: 100px;
+  background-color: #3024ff;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}

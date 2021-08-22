@@ -1,0 +1,10 @@
+div > p{
+  background-color: darkorange;
+  color: lightgoldenrodyellow;
+  padding: 15px;
+}
+span > p{
+  background-color: darkblue;
+  color: lightblue;
+  padding: 15px;
+}

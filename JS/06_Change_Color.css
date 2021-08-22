@@ -1,0 +1,15 @@
+.blueDiv {
+  height: 120px;
+  width: 80px;
+  position: relative;
+  top: 20px;
+  background-color: blue;
+}
+.redDiv {
+  position: relative;
+  height: 300px;
+  width: 200px;
+  background-color: #ff2839;
+  top: 80px;
+  left: 200px;
+}

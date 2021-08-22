@@ -1,0 +1,11 @@
+.pc1{
+  width: 30%;
+  float: right;
+}
+.pc2{
+  width: 30%;
+  float: left;
+}
+p{
+  width: 500px;
+}

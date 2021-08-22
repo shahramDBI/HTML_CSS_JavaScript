@@ -1,0 +1,22 @@
+body{
+  background-color: lightgrey;
+  line-height: 70px;
+  text-indent: 80px;
+}
+.center{
+  color: goldenrod;
+  text-align: center;
+  font-size: 50px;
+  text-transform: uppercase;
+  word-spacing: 50px;
+}
+.p1{
+  font-family: fantasy;
+  text-transform: capitalize;
+  color: darkblue;
+  font-size: 20px;
+}
+.p2{
+  font-family: "fangsong";
+  color: brown;
+}

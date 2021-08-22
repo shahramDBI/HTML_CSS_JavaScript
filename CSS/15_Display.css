@@ -1,0 +1,15 @@
+.s1{
+  display: inline;
+  height: 100px;
+  background-color: sandybrown;
+}
+.s2{
+  display: inline-block;
+  height: 100px;
+  background-color: lightblue;
+}
+.s3{
+  display: block;
+  height: 100px;
+  background-color: lightcoral;
+}

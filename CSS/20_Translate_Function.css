@@ -1,0 +1,34 @@
+.container {
+  width: 1600px;
+}
+.move {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 150px;
+  height: 50px;
+  padding: 10px 15px;
+  background-color: darkred;
+  color: #fff;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 0.5em;
+  font-size: 20px;
+  transition: 2s;
+  transition-duration: 3s;
+}
+#translate-x:hover {
+  transform: translateX(500px);
+}
+#translate--x:hover {
+  transform: translateX(-500px);
+}
+#translate-y:hover {
+  transform: translateY(200px);
+}
+#translate--y:hover {
+  transform: translateY(-200px);
+}
+#translate:hover {
+  transform: translate(200px, 200px);
+}

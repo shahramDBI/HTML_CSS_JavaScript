@@ -1,0 +1,22 @@
+ul{
+  list-style-type: none;
+  background-color: black;
+  overflow: hidden;
+  border-radius: 5px;
+  padding: 15px;
+}
+li{
+  float: left;
+}
+a{
+  text-decoration: none;
+  padding-right: 15px;
+  color: lightblue;
+  font-size: 20px;
+}
+a:hover{
+  background-color: lightskyblue;
+  color: darkblue;
+  border-radius: 5px;
+  padding: 10px;
+}

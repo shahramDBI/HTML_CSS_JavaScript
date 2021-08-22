@@ -1,0 +1,16 @@
+table, th, td{
+  border: 2px solid darkblue;
+  border-collapse: collapse;
+}
+th{
+  padding: 20px;
+  font-size: 20px;
+}
+td{
+  background-color: lightblue;
+  font-size: 15px;
+}
+td:hover{
+  background-color: darkblue;
+  color: lightblue;
+}
